@@ -1,4 +1,4 @@
-module github.com/fanout/go-pubcontrol
+module github.com/harness-community/go-pubcontrol
 
 go 1.20
 
